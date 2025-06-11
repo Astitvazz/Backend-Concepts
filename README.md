@@ -1,4 +1,4 @@
-Hii , I am Astitva. I have been learning javaScript, Nodejs , MongoDB , Express etc for last one year. In this Repository I have applied basics of Node js , Express to build a server and Restful Api. Here, are some of the 
+Hii , I am Astitva. I have been learning javaScript, Nodejs , MongoDB , Express etc for last one year. In this Repository I have applied basics of Node js , Express to build a server and Restful Api for Student Management System. Here, are some of the 
 routes I have created. 
 
 1)- To get all the students enrolled
